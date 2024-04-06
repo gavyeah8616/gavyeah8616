@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to make a operating system
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me idk
-- 😄 Pronouns: idk
+- 😄 Pronouns: Gav Yeah
 - ⚡ Fun fact: idk
 
 <!---
